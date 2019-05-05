@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [教學手冊](README.md)
 * [Untitled](untitled.md)
 
